@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="behind">Behind</string>
+    <string name="ahead">Ahead</string>
+    <string name="hit">Hit!</string>
+    <string name="input_value">Ввести значение</string>
+    <string name="play_again">Сыграть еще</string>
+    <string name="try_to_guess">Попробуйте угадать число (1 &#8211; 100)</string>
+    <string name="error">Неверный ввод</string>
+</resources>
